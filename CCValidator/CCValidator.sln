@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCValidator", "CCValidator\CCValidator.csproj", "{394B3754-9B6B-4590-A0BB-BAE48DBC692E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{8941153B-9D9B-42A8-B8EA-FE76B075A5BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{394B3754-9B6B-4590-A0BB-BAE48DBC692E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{394B3754-9B6B-4590-A0BB-BAE48DBC692E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{394B3754-9B6B-4590-A0BB-BAE48DBC692E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8941153B-9D9B-42A8-B8EA-FE76B075A5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8941153B-9D9B-42A8-B8EA-FE76B075A5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8941153B-9D9B-42A8-B8EA-FE76B075A5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8941153B-9D9B-42A8-B8EA-FE76B075A5BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -17,7 +17,7 @@ namespace CCValidator
             configuration
                 .EnableSwagger(c =>
                 {
-                    c.SingleApiVersion("v1", "CreditCardValidator.Api");
+                    c.SingleApiVersion("v2", "CreditCardValidator.Api");
                     c.PrettyPrint();
                     // Include if you want to setup XML comments.
                     //c.IncludeXmlComments(() => new XPathDocument(GetXmlDocumentationPath()));
